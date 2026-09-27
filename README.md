@@ -1,4 +1,4 @@
-# GPP-GEP-Binary
+# GPP-GEP-Binary-System
 A Binary system config for GPP and GEP. effectively combines the two systems for KSP
 
 # IMPORTANT!
