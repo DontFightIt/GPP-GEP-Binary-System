@@ -17,9 +17,6 @@ A Binary system config for GPP and GEP. effectively combines the two systems for
 <img width="1920" height="1080" alt="1000005621" src="https://github.com/user-attachments/assets/cff497ad-b454-4e0d-b286-af19941e2005" />
 
 
-<img width="1920" height="1080" alt="1000005620" src="https://github.com/user-attachments/assets/ad145e17-0628-443a-a08c-ac963abdb60c" />
-
-
 
 
 # IMPORTANT!
